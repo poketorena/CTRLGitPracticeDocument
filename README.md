@@ -19,7 +19,7 @@ https://ja.atlassian.com/software/sourcetree
 
 「ライセンスに同意します」にチェックを付け、続行をクリックします。
 
-SourceTreeに利用データを送って開発に貢献したい人は「Help improve Sourcetree by sending」にもチェックを付けましょう。
+Sourcetreeに利用データを送って開発に貢献したい人は「Help improve Sourcetree by sending」にもチェックを付けましょう。
 
 <img src="./image/SourcetreeLicence.png" width="600">
 
